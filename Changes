@@ -1,6 +1,7 @@
 Revision history for Form
 
 {{$NEXT}}
+    - add util/invoice-dsl example
 
 1.1  2026-05-24T18:07:18+01:00
     - Add :interleave adverb: pass multi-line template then all data at the end
